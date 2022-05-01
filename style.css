@@ -8,10 +8,10 @@
 }
 
 :root {
-    --primary-color: rgb(14, 24, 95);
-    --secondary-color: rgb(47, 164, 255);
-    --third-color: rgb(0, 255, 221);
-    --fourth-color: rgb(232, 255, 194);
+    --primary-color: rgb(17, 43, 60);
+    --secondary-color: rgb(32, 83, 117);
+    --third-color: rgb(246, 107, 14);
+    --fourth-color: rgb(239, 239, 239);
     --main-duration: 0.3s;
 }
 
