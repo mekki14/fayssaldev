@@ -84,7 +84,7 @@ section {
     justify-content: center;
     flex-direction: column;
     background: /* top, transparent black, faked with gradient */
-    linear-gradient( rgb(14, 24, 95), rgba(14, 23, 95, 0.288)), /* bottom, image */
+    linear-gradient( rgba(15, 15, 15, 0.11)rgba(14, 23, 95, 0.288)), /* bottom, image */
     url(images/background01.jpg);
     background-size: cover;
     background-position: center;
